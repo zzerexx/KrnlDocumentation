@@ -21,7 +21,7 @@ Other
 ```
 Functions
 [+] getscriptbytecode (Environment Functions)
-[+] getscripthash (Environment Functions Functions)
+[+] getscripthash (Environment Functions)
 [+] getmoduleunlocked (Environment Functions)
 [+] setmoduleunlocked (Environment Functions)
 [+] mouse1down (Input Functions) (Alias for mouse1press)
@@ -29,15 +29,15 @@ Functions
 [+] mouse2down (Input Functions) (Alias for mouse2press)
 [+] mouse2up (Input Functions) (Alias for mouse2release)
 [+] zip_inflate (Filesystem Functions)
-[+] run_auto_execute_scripts (Miscellaneous Functions Functions)
+[+] run_auto_execute_scripts (Miscellaneous Functions)
 [+] run_teleport_queue_scirpts (Miscellaneous Functions)
-[+] getnetworkmode (Miscellaneous Functions Functions)
+[+] getnetworkmode (Miscellaneous Functions)
 [+] setnetworkmode (Miscellaneous Functions)
 [+] luau_compile (Miscellaneous Functions)
 [+] luau_load (Miscellaneous Functions)
 [+] HANDLE_TELEPORT (Miscellaneous Functions)
 [*] fireclickdetector (Environment Functions) (Updated)
-[*] Decompile (Moved to Miscellaneous Functions)
+[*] decompile (Moved to Miscellaneous Functions)
 [*] Krnl.SaveInstance (Krnl Library) (Updated)
 
 Other
