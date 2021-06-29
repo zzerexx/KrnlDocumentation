@@ -1,10 +1,16 @@
 # Change Log
-Updated on June 10, 2021  
+Updated on June 29, 2021  
 
 ```
 [+] = Added
 [*] = Changed
 [-] = Removed
+```  
+
+**June 29, 2021**  
+```
+Functions
+[+] hookmetamethod (Metatable Functions)
 ```  
   
 **June 10, 2021**  
