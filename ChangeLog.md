@@ -1,12 +1,22 @@
 # Change Log
-Updated on June 29, 2021  
+Updated on July 5, 2021  
 
 ```
 [+] = Added
 [*] = Changed
 [-] = Removed
 ```  
+  
+**July 5, 2021**  
+```
+Functions
+[+] KRNL_SAFE_CALL (Miscellaneous Functions)
 
+Other
+[*] Changed Drawing Library properties to use tables now
+[*] Changed Krnl Save Instance properties to use tables now
+```  
+  
 **June 29, 2021**  
 ```
 Functions
